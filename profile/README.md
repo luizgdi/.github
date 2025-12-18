@@ -16,7 +16,7 @@
 ![Spring](https://img.shields.io/badge/spring-boot.svg?style=for-the-badge&logo=springboot)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Solr](https://img.shields.io/badge/Solr-005571?style=for-the-badge&logo=solr),
+![Solr](https://img.shields.io/badge/Solr-005571?style=for-the-badge&logo=solr)
 
 ## DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
