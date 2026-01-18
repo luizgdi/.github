@@ -1,6 +1,6 @@
 ### Hello world!
 
-## Side Projects
+## Active Products
 ## Skeduler
 ### Schedule manager developed with Spring Boot, Next.js, PostgreSQL and TailwindCSS. Currently with multiple active local customers
 
@@ -50,3 +50,4 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
